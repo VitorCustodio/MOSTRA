@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/06/19 00:25:51.000.604,=C:\Users\Dell\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/06/19 00:34:41.000.241,=C:\Users\Dell\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/06/26 19:23:12.000.164,=C:\Users\Dell\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/06/26 19:23:23.000.651,C:\Users\Dell\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\Dell\Desktop\New folder\Unit1.dfm</Transaction>
+    <Transaction>2019/06/26 19:23:23.000.651,C:\Users\Dell\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\Dell\Desktop\New folder\Unit1.pas</Transaction>
+    <Transaction>2019/06/26 19:23:25.000.309,C:\Users\Dell\Documents\Embarcadero\Studio\Projects\Project2.dproj=C:\Users\Dell\Desktop\New folder\Project2.dproj</Transaction>
+    <Transaction>2019/06/26 19:39:07.000.939,=C:\Users\Dell\Desktop\New folder\Unit2.pas</Transaction>
+    <Transaction>2019/06/27 13:51:02.952,=C:\Users\vccustodio\Downloads\Mostra [Principal]\Unit1.pas</Transaction>
+    <Transaction>2019/06/27 15:10:45.834,C:\Users\vccustodio\Documents\MOSTRA\UnitMOSTRA.dfm=C:\Users\vccustodio\Downloads\Mostra [Principal]\Unit1.dfm</Transaction>
+    <Transaction>2019/06/27 15:10:45.834,C:\Users\vccustodio\Documents\MOSTRA\UnitMOSTRA.pas=C:\Users\vccustodio\Downloads\Mostra [Principal]\Unit1.pas</Transaction>
+    <Transaction>2019/06/27 15:10:52.870,C:\Users\vccustodio\Documents\MOSTRA\ProjMOSTRA.dproj=C:\Users\vccustodio\Downloads\Mostra [Principal]\Project2.dproj</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5"/>
+	</ActiveMobileDevice>
+</BorlandProject>
